@@ -1,0 +1,24 @@
+SELECTION SORT. 
+100 elements -- 1 milliseconds
+1,000 elements -- 5 milliseconds
+50000 elements -- 685 milliseconds
+75000 elements -- 1510 milliseconds
+100000 elements -- 2667 milliseconds
+120000 elements -- 3963 milliseconds
+150000 elements -- 6240 milliseconds
+MERGE SORT. 
+100 elements -- 1 milliseconds
+1,000 elements -- 1 milliseconds
+50000 elements -- 13 milliseconds
+75000 elements -- 13 milliseconds
+100000 elements -- 15 milliseconds
+120000 elements -- 25 milliseconds
+150000 elements -- 22 milliseconds
+ARRAYS.SORT. 
+100 elements -- 0 milliseconds
+1,000 elements -- 0 milliseconds
+50000 elements -- 4 milliseconds
+75000 elements -- 5 milliseconds
+100000 elements -- 9 milliseconds
+120000 elements -- 10 milliseconds
+150000 elements -- 13 milliseconds

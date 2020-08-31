@@ -1,0 +1,4 @@
+Griffin:Kathy:123-123-1234:kgriff@utc.edu
+Steward:Claire:333-333-3333:stewc@email.com
+Nugget:Chicken:445-454-3434:cnugget@today.com
+Meyer:Fred:000-164-5050:fmeyer@aaaaaa.edu
